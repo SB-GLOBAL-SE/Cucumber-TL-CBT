@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\test",
+    "\\src\\test\\java",
+    "\\src\\test\\java\\io",
+    "\\src\\test\\java\\io\\cucumber",
+    "\\src\\test\\java\\io\\cucumber\\skeleton",
+    "\\src\\test\\resources",
+    "\\src\\test\\resources\\io",
+    "\\src\\test\\resources\\io\\cucumber",
+    "\\src\\test\\resources\\io\\cucumber\\skeleton"
+  ],
+  "SelectedNode": "\\src\\test\\resources\\io\\cucumber\\skeleton\\WeylandYutani_Integration.feature",
+  "PreviewInSolutionExplorer": false
+}
